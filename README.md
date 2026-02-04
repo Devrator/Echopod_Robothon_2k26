@@ -58,3 +58,9 @@ This step-less frequency change helps users intuitively judge how close an obsta
 
 ## 🖥️ Serial Output
 The system prints warning messages when obstacles are detected within the defined range:
+
+## THE PROJECT IS DEVLOPED BY
+- Daksh Saini
+- Mr.Deepak Sharma
+- Chitvansh Agrawal
+- Harshita Chauhan
